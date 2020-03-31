@@ -1,0 +1,593 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "泗",
+        "name_en": "Si",
+        "name_kana": "シ",
+        "place_name": "Si River"
+      },
+      "geometry": {
+        "coordinates": [
+          117.117387,
+          35.622241
+        ],
+        "type": "Point"
+      },
+      "id": "50f8a9711dc96d771829e091122a4ea0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "レ",
+        "name_en": "Ré",
+        "name_kana": "レ",
+        "place_name": "Île de Ré (pronounced [il də ʁe]; variously spelled Rhé, Rhéa or Rhea; in English Isle of Rhé)"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.391667,
+          46.19122
+        ],
+        "type": "Point"
+      },
+      "id": "644e77353981b9d298f3197f3f906755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "ワ",
+        "name_en": "Wa",
+        "name_kana": "ワ",
+        "place_name": "Wa State, as claimed by the UWSP, Myanmar"
+      },
+      "geometry": {
+        "coordinates": [
+          98.932016,
+          22.459988
+        ],
+        "type": "Point"
+      },
+      "id": "770cf6b1f97dbbac25ffb4f00789dfd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q5357043",
+        "place_name": "恵山 (Mt.Esan), 函館市, 北海道, Japan",
+        "name_ja": "恵",
+        "name_en": "E",
+        "name_kana": "エ"
+      },
+      "geometry": {
+        "coordinates": [
+          141.166147,
+          41.804667
+        ],
+        "type": "Point"
+      },
+      "id": "7e2f57c4b8fa42ea251751f037ef17f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "カ",
+        "name_en": "Cả",
+        "name_kana": "カ",
+        "place_name": " Cả River (Laotian: Nam Khan, Vietnamese: Sông Cả or better known as sông Lam or Lam River wikt:藍)"
+      },
+      "geometry": {
+        "coordinates": [
+          105.08611,
+          18.936022
+        ],
+        "type": "Point"
+      },
+      "id": "8b45a23559f9de8e530006c4be1fc1fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 熊本県上天草市松島町阿村",
+        "name_ja": "阿",
+        "name_en": "A",
+        "name_kana": "ア"
+      },
+      "geometry": {
+        "coordinates": [
+          130.445858,
+          32.518971
+        ],
+        "type": "Point"
+      },
+      "id": "address.4383135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "鵡",
+        "name_en": "Mu",
+        "name_kana": "ム",
+        "place_name": "Mu River (Hokkaidō)"
+      },
+      "geometry": {
+        "coordinates": [
+          141.936074,
+          42.578236
+        ],
+        "type": "Point"
+      },
+      "id": "c485391cb9f1f23d5426e07fdf989856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q2031322",
+        "place_name": "Si Xian, Suzhou Shi, Anhui, China",
+        "name_ja": "泗県",
+        "name_en": "Si",
+        "name_kana": "シ"
+      },
+      "geometry": {
+        "coordinates": [
+          117.88003,
+          33.479219
+        ],
+        "type": "Point"
+      },
+      "id": "locality.11012348056302860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1331458",
+        "place_name": "Yi Xian, Jinzhou Shi, Liaoning, China",
+        "name_ja": "義",
+        "name_en": "Yi",
+        "name_kana": "ギ"
+      },
+      "geometry": {
+        "coordinates": [
+          121.2349,
+          41.53247
+        ],
+        "type": "Point"
+      },
+      "id": "locality.12784579780569880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1091343",
+        "place_name": "Ci Xian, Handan Shi, Hebei, China",
+        "name_ja": "磁",
+        "name_en": "Ci",
+        "name_kana": "ジ"
+      },
+      "geometry": {
+        "coordinates": [
+          114.37748,
+          36.36347
+        ],
+        "type": "Point"
+      },
+      "id": "locality.12917993205350610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1197412",
+        "place_name": "Pu Xian, Linfen Shi, Shanxi, China",
+        "name_ja": "蒲",
+        "name_en": "Pu",
+        "name_kana": "ホ"
+      },
+      "geometry": {
+        "coordinates": [
+          111.09638,
+          36.40876
+        ],
+        "type": "Point"
+      },
+      "id": "locality.14550229370749830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q166771",
+        "place_name": "Jizhou Qu, hengshui Shi, Hebei, China",
+        "name_ja": "冀",
+        "name_en": "Ji",
+        "name_kana": "キ"
+      },
+      "geometry": {
+        "coordinates": [
+          115.57347,
+          37.54529
+        ],
+        "type": "Point"
+      },
+      "id": "locality.14919458762019140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1198543",
+        "place_name": "Qi Xian, Kaifeng Shi, Henan, China",
+        "name_ja": "杞",
+        "name_en": "Qi",
+        "name_kana": "キ"
+      },
+      "geometry": {
+        "coordinates": [
+          114.76921,
+          34.55429
+        ],
+        "type": "Point"
+      },
+      "id": "locality.15361390306720210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1152555",
+        "place_name": "Qi Xian, Hebi Shi, Henan, China",
+        "name_ja": "淇",
+        "name_en": "Qi",
+        "name_kana": "キ"
+      },
+      "geometry": {
+        "coordinates": [
+          114.19579,
+          35.60548
+        ],
+        "type": "Point"
+      },
+      "id": "locality.4092608553720210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1197328",
+        "place_name": "Yu Xian, Yangquan Shi, Shanxi, China",
+        "name_ja": "盂",
+        "name_en": "Yu",
+        "name_kana": "ウ"
+      },
+      "geometry": {
+        "coordinates": [
+          113.40638,
+          38.08469
+        ],
+        "type": "Point"
+      },
+      "id": "locality.4270699231861230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q786612",
+        "place_name": "Yi Xian, Huangshan Shi, Anhui, China",
+        "name_ja": "黟",
+        "name_en": "Yi",
+        "name_kana": "イ"
+      },
+      "geometry": {
+        "coordinates": [
+          117.93685,
+          29.9255
+        ],
+        "type": "Point"
+      },
+      "id": "locality.4379586144569880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1201532",
+        "place_name": "Fu Xian, Yan'an Shi, Shaanxi, China",
+        "name_ja": "富",
+        "name_en": "Fu",
+        "name_kana": "フ"
+      },
+      "geometry": {
+        "coordinates": [
+          109.37425,
+          35.98612
+        ],
+        "type": "Point"
+      },
+      "id": "locality.6069519289608210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1200097",
+        "place_name": "Li Xian, Aba Zangzu Qiangzu Zizhizhou, Sichuan, China",
+        "name_ja": "理",
+        "name_en": "Li",
+        "name_kana": "リ"
+      },
+      "geometry": {
+        "coordinates": [
+          103.16489,
+          31.43871
+        ],
+        "type": "Point"
+      },
+      "id": "locality.6871215238135390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q197865",
+        "place_name": "Yi Xian, Baoding Shi, Hebei, China",
+        "name_ja": "易",
+        "name_en": "Yi",
+        "name_kana": "イ"
+      },
+      "geometry": {
+        "coordinates": [
+          115.49596,
+          39.34991
+        ],
+        "type": "Point"
+      },
+      "id": "locality.7587733715569880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1341978",
+        "place_name": "Lu Xian, Luzhou Shi, Sichuan, China",
+        "name_ja": "瀘",
+        "name_en": "Lu",
+        "name_kana": "ロ"
+      },
+      "geometry": {
+        "coordinates": [
+          105.37171,
+          29.15417
+        ],
+        "type": "Point"
+      },
+      "id": "locality.7918947442592790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1204146",
+        "place_name": "He Xian, Ma'anshan Shi, Anhui, China",
+        "name_ja": "和",
+        "name_en": "He",
+        "name_kana": "ワ"
+      },
+      "geometry": {
+        "coordinates": [
+          118.27028,
+          31.68056
+        ],
+        "type": "Point"
+      },
+      "id": "locality.867205646100770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1173592",
+        "place_name": "Yi Xian, Jinzhou Shi, Liaoning, China",
+        "name_ja": "古",
+        "name_en": "Gu",
+        "name_kana": "コ"
+      },
+      "geometry": {
+        "coordinates": [
+          111.91453,
+          36.26672
+        ],
+        "type": "Point"
+      },
+      "id": "locality.9109532194226330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q10823031",
+        "place_name": "Sông Đà, 383900, Thị Xã Mường Lay, Điện Biên, Vietnam",
+        "name_ja": "ダ",
+        "name_en": "Đà",
+        "name_kana": "ダ"
+      },
+      "geometry": {
+        "coordinates": [
+          103.11417,
+          22.075
+        ],
+        "type": "Point"
+      },
+      "id": "locality.9126069922398050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1196900",
+        "place_name": "Qi Xian, Jingzhong Shi, Shanxi, China",
+        "name_ja": "祁",
+        "name_en": "Qi",
+        "name_kana": "キ"
+      },
+      "geometry": {
+        "coordinates": [
+          112.32203,
+          37.35901
+        ],
+        "type": "Point"
+      },
+      "id": "locality.9597464684720210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q250733",
+        "place_name": "Wa, Upper West, Ghana",
+        "name_ja": "ワ",
+        "name_en": "Wa",
+        "name_kana": "ワ"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.509322,
+          10.062248
+        ],
+        "type": "Point"
+      },
+      "id": "place.1164846566486066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q615006",
+        "place_name": "Ho, Volta, Ghana",
+        "name_ja": "ホ",
+        "name_en": "Ho",
+        "name_kana": "ホ"
+      },
+      "geometry": {
+        "coordinates": [
+          0.46726,
+          6.608083
+        ],
+        "type": "Point"
+      },
+      "id": "place.2303349774961558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q26713",
+        "place_name": "Ba, Western, Fiji",
+        "name_ja": "バ",
+        "name_en": "Ba",
+        "name_kana": "バ"
+      },
+      "geometry": {
+        "coordinates": [
+          177.690518,
+          -17.5609
+        ],
+        "type": "Point"
+      },
+      "id": "place.2615275140974912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23690",
+        "place_name": "Re, Verbano-Cusio-Ossola, Italy",
+        "name_ja": "レ",
+        "name_en": "Re",
+        "name_kana": "レ"
+      },
+      "geometry": {
+        "coordinates": [
+          8.573892,
+          46.156073
+        ],
+        "type": "Point"
+      },
+      "id": "place.4496911972418880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q203027",
+        "place_name": "Japan, 三重県津市",
+        "name_ja": "津",
+        "name_en": "Tsu",
+        "name_kana": "ツ"
+      },
+      "geometry": {
+        "coordinates": [
+          136.50556,
+          34.71861
+        ],
+        "type": "Point"
+      },
+      "id": "place.5580708708954340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q240431",
+        "place_name": "Y, Somme, France",
+        "name_ja": "イ",
+        "name_en": "Y",
+        "name_kana": "イ"
+      },
+      "geometry": {
+        "coordinates": [
+          2.99194,
+          49.80333
+        ],
+        "type": "Point"
+      },
+      "id": "place.7732993876684030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q95138",
+        "place_name": "Ro, Ferrara, Italy",
+        "name_ja": "ロ",
+        "name_en": "Ro",
+        "accuracy": "ロ"
+      },
+      "geometry": {
+        "coordinates": [
+          11.76111,
+          44.94722
+        ],
+        "type": "Point"
+      },
+      "id": "place.9301871032235930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "NG-RI",
+        "wikidata": "Q503923",
+        "place_name": "Rivers, Nigeria"
+      },
+      "geometry": {
+        "coordinates": [
+          6.83333,
+          4.75
+        ],
+        "type": "Point"
+      },
+      "id": "region.1995458538959450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "BT-13",
+        "wikidata": "Q754448",
+        "place_name": "Ha, Bhutan",
+        "name_ja": "ハ",
+        "name_en": "Ha",
+        "name_kana": "ハ"
+      },
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          27.25
+        ],
+        "type": "Point"
+      },
+      "id": "region.5666917411813220"
+    }
+  ],
+  "type": "FeatureCollection"
+}

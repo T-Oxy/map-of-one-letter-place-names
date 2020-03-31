@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <title>Map of 1 Letter Place Names</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+  <div id='map' style='width: 1000px; height: 750px;'></div>
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoidC1veHkiLCJhIjoiY2s1dGozbzdwMGp3OTNtcDRoNHBkZ2s1byJ9.YTyN-nCyp99au76R1DOtLw';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/t-oxy/ck8gaxyhc027t1iohstwayh7m' ,
+      center: [139.7621, 35.6797],
+      zoom: 1,
+    //  bearing: 37,
+      hash: true
+    });
+    //拡大・縮小・方位ナビゲーション
+    map.addControl(new mapboxgl.NavigationControl, 'top-left');
+    //フルスクリーンモード
+    map.addControl(new mapboxgl.FullscreenControl);
+    //スケール
+    map.addControl(new mapboxgl.ScaleControl({
+        maxWidth: 80,
+        unit: 'metric'
+    }));
+    //位置情報
+    map.addControl(new mapboxgl.GeolocateControl({
+      positionOptions: {enableHighAccuracy: true},
+      trackUserLocation: true
+    }));
+  </script>
+</body>
+</html>
