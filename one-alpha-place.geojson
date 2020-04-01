@@ -1,0 +1,220 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "U",
+        "place_name": "U, Pohnpei"
+      },
+      "geometry": {
+        "coordinates": [
+          158.272015,
+          6.938519
+        ],
+        "type": "Point"
+      },
+      "id": "1afcadf7a2ef3d4988e4fc8b0c0ef84c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Ø",
+        "place_name": "Ø, Denmark"
+      },
+      "geometry": {
+        "coordinates": [
+          9.630043,
+          56.465351
+        ],
+        "type": "Point"
+      },
+      "id": "40650612c6db59063ae797ed583523d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Meldal, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          9.741963,
+          62.985039
+        ],
+        "type": "Point"
+      },
+      "id": "570fa61ced0a4bf67d1e5fcf5a9181f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Ü",
+        "place_name": "Ü (region), Tibet"
+      },
+      "geometry": {
+        "coordinates": [
+          92.10961,
+          30.381802
+        ],
+        "type": "Point"
+      },
+      "id": "5a3606b01b7021e67af99a70e4bbed30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Ibestad, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          17.185914,
+          68.835629
+        ],
+        "type": "Point"
+      },
+      "id": "66ff37fa3825e83d66b19c107620d5fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Lavangen, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          17.786215,
+          68.783466
+        ],
+        "type": "Point"
+      },
+      "id": "976e0a5653bc54d2de98be2993491595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Å, Andøy, Norway",
+        "name_en": "A"
+      },
+      "geometry": {
+        "coordinates": [
+          130.445858,
+          32.518971
+        ],
+        "type": "Point"
+      },
+      "id": "address.4383135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Å, 523 94 Tvärred, Sweden",
+        "name_en": "Å"
+      },
+      "geometry": {
+        "coordinates": [
+          13.296158,
+          57.702022
+        ],
+        "type": "Point"
+      },
+      "id": "address.7111123720505360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Å, 694 92 Hallsberg, Sweden",
+        "name_en": "Å"
+      },
+      "geometry": {
+        "coordinates": [
+          15.229932,
+          59.017381
+        ],
+        "type": "Point"
+      },
+      "id": "address.7399208688040228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Moskenes, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          12.982305,
+          67.880317
+        ],
+        "type": "Point"
+      },
+      "id": "d61acd827ba8d0ed731f7209718999b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Senja, Troms og Finnmark, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          17.003496,
+          69.081514
+        ],
+        "type": "Point"
+      },
+      "id": "f38ca8f80de5a0f1d744c7b4b768543e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_en": "Å",
+        "place_name": "Å, Andøy, Norway"
+      },
+      "geometry": {
+        "coordinates": [
+          15.834871,
+          69.0433
+        ],
+        "type": "Point"
+      },
+      "id": "f5313761c6087823311bd7d147f5f39f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q240431",
+        "place_name": "Y, Somme, France",
+        "name_en": "Y"
+      },
+      "geometry": {
+        "coordinates": [
+          2.99194,
+          49.80333
+        ],
+        "type": "Point"
+      },
+      "id": "place.7732993876684030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q270835",
+        "place_name": "Åfjord, Sør-Trøndelag, Norway",
+        "name_en": "Å"
+      },
+      "geometry": {
+        "coordinates": [
+          10.38556,
+          63.97778
+        ],
+        "type": "Point"
+      },
+      "id": "place.9580596720896480"
+    }
+  ],
+  "type": "FeatureCollection"
+}
