@@ -1,0 +1,268 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "ンガイ島",
+        "name_en": "Ko Ngai"
+      },
+      "geometry": {
+        "coordinates": [
+          99.203717,
+          7.415078
+        ],
+        "type": "Point"
+      },
+      "id": "26761239218b1108b9e3ca86e900e8dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "ングエサウン",
+        "name_en": "Ngwe Saung"
+      },
+      "geometry": {
+        "coordinates": [
+          94.393505,
+          16.86029
+        ],
+        "type": "Point"
+      },
+      "id": "5a1b4b1a8a6fe85f2a3c2710e1e85aa4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mbacké, Diourbel, Senegal",
+        "name_ja": "ンバケ",
+        "name_en": "Mbacké"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.905064,
+          14.792961
+        ],
+        "type": "Point"
+      },
+      "id": "place.10352892548652800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mbouré, Kaffrine, Senegal",
+        "name_ja": "ンブール",
+        "name_en": "Mbour"
+      },
+      "geometry": {
+        "coordinates": [
+          -14.915743,
+          13.860001
+        ],
+        "type": "Point"
+      },
+      "id": "place.11205321483105260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ndola, Copperbelt, Zambia",
+        "name_ja": "ンドーラ",
+        "name_en": "Ndola"
+      },
+      "geometry": {
+        "coordinates": [
+          28.636589,
+          -12.969305
+        ],
+        "type": "Point"
+      },
+      "id": "place.12511951890858260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mbini, Litoral, Equatorial Guinea",
+        "name_ja": "ンビニ",
+        "name_en": "Mbini"
+      },
+      "geometry": {
+        "coordinates": [
+          9.616027,
+          1.583689
+        ],
+        "type": "Point"
+      },
+      "id": "place.1293517462377240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ngorongoro, Arusha, Tanzania",
+        "name_ja": "ンゴロンゴロ保全地域",
+        "name_en": "Ngorongoro Conservation Area"
+      },
+      "geometry": {
+        "coordinates": [
+          35.484559,
+          -3.205588
+        ],
+        "type": "Point"
+      },
+      "id": "place.13167066734367020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nkongsamba, Littoral, Cameroon",
+        "name_ja": "ンコングサンバ",
+        "name_en": "N'kongsamba"
+      },
+      "geometry": {
+        "coordinates": [
+          9.939166,
+          4.952511
+        ],
+        "type": "Point"
+      },
+      "id": "place.13535374271976290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "NGuigmi, Diffa, Niger",
+        "name_ja": "ンギグミ",
+        "name_en": "N'guigmi"
+      },
+      "geometry": {
+        "coordinates": [
+          13.113545,
+          14.253301
+        ],
+        "type": "Point"
+      },
+      "id": "place.1648407069916030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q745906",
+        "place_name": "Ngaoundéré, Adamaoua, Cameroon",
+        "name_ja": "ンガウンデレ",
+        "name_en": "N'Gaoundéré"
+      },
+      "geometry": {
+        "coordinates": [
+          13.583527,
+          7.32501
+        ],
+        "type": "Point"
+      },
+      "id": "place.4901416260519636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ndjolé, Moyen-Ogooué, Gabon",
+        "name_ja": "ンジョレ",
+        "name_en": "Ndjolé"
+      },
+      "geometry": {
+        "coordinates": [
+          10.772139,
+          -0.181351
+        ],
+        "type": "Point"
+      },
+      "id": "place.7127091927487140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ngapali, Temotu, Solomon Islands",
+        "name_ja": "ンガパリ",
+        "name_en": "Ngapali"
+      },
+      "geometry": {
+        "coordinates": [
+          165.934578,
+          -10.664349
+        ],
+        "type": "Point"
+      },
+      "id": "place.7821524566419190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "TD-ND",
+        "wikidata": "Q3659",
+        "place_name": "N'Djamena, Chad",
+        "name_ja": "ンジャメナ",
+        "name_en": "N'djamena"
+      },
+      "geometry": {
+        "coordinates": [
+          15.07222,
+          12.11639
+        ],
+        "type": "Point"
+      },
+      "id": "place.8172583608167350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "KM-G",
+        "wikidata": "Q244978",
+        "place_name": "Andjazîdja, Comoros",
+        "name_ja": "ンジャジジャ島",
+        "name_en": "Njazidja"
+      },
+      "geometry": {
+        "coordinates": [
+          43.33333,
+          -11.58333
+        ],
+        "type": "Point"
+      },
+      "id": "region.10114709046779530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "KM-A",
+        "wikidata": "Q231324",
+        "place_name": "Andjouân, Comoros",
+        "name_ja": "ンズワニ島",
+        "name_en": "Ndzuwani"
+      },
+      "geometry": {
+        "coordinates": [
+          44.41667,
+          -12.25
+        ],
+        "type": "Point"
+      },
+      "id": "region.10989799009334300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "GN-N",
+        "wikidata": "Q870146",
+        "place_name": "Nzérékoré, Guinea",
+        "name_ja": "ンゼレコレ",
+        "name_en": "N'zerekore"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.764692,
+          7.979571
+        ],
+        "type": "Point"
+      },
+      "id": "region.12904443575154020"
+    }
+  ],
+  "type": "FeatureCollection"
+}
