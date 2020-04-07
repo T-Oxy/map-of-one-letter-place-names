@@ -1,0 +1,258 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "治水橋",
+        "name_kana": "ヂスイバシ",
+        "place_name": "japan, 埼玉県さいたま市西区治水橋"
+      },
+      "geometry": {
+        "coordinates": [
+          139.562479,
+          35.892269
+        ],
+        "type": "Point"
+      },
+      "id": "7f06dfb99918e8456777eae5da964a0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 岩手県大船渡市大船渡町地ノ森",
+        "name_ja": "地ノ森",
+        "name_kana": "ヂノモリ"
+      },
+      "geometry": {
+        "coordinates": [
+          141.715472,
+          39.07371
+        ],
+        "type": "Point"
+      },
+      "id": "address.03451993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 宮城県登米市迫町北方地粮",
+        "name_ja": "地粮",
+        "name_kana": "ヂロウ"
+      },
+      "geometry": {
+        "coordinates": [
+          141.166019,
+          38.708871
+        ],
+        "type": "Point"
+      },
+      "id": "address.04630073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 秋田県秋田市雄和椿川地張山",
+        "name_ja": "地張山",
+        "name_kana": "ヂハリヤマ"
+      },
+      "geometry": {
+        "coordinates": [
+          140.173827,
+          39.620828
+        ],
+        "type": "Point"
+      },
+      "id": "address.05227046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 富山県富山市西田地方町1丁目1番",
+        "name_ja": "地方町",
+        "name_kana": "ヂガタマチ"
+      },
+      "geometry": {
+        "coordinates": [
+          137.206344,
+          36.685122
+        ],
+        "type": "Point"
+      },
+      "id": "address.16223625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 富山県富山市東田地方町2丁目5番",
+        "name_ja": "地方町",
+        "name_kana": "ヂガタマチ"
+      },
+      "geometry": {
+        "coordinates": [
+          137.221394,
+          36.695979
+        ],
+        "type": "Point"
+      },
+      "id": "address.16243114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 石川県羽咋郡志賀町地保ヘ",
+        "name_ja": "地保",
+        "name_kana": "ヂホ"
+      },
+      "geometry": {
+        "coordinates": [
+          136.80713,
+          37.205923
+        ],
+        "type": "Point"
+      },
+      "id": "address.17374176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 福井県福井市地蔵堂町",
+        "name_ja": "地蔵坊",
+        "name_kana": "ヂゾウボウ"
+      },
+      "geometry": {
+        "coordinates": [
+          136.895282,
+          37.246448
+        ],
+        "type": "Point"
+      },
+      "id": "address.17393376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 福井県福井市地蔵堂町",
+        "name_ja": "地蔵堂町",
+        "name_kana": "ヂゾウドウチョウ"
+      },
+      "geometry": {
+        "coordinates": [
+          136.189119,
+          36.086698
+        ],
+        "type": "Point"
+      },
+      "id": "address.18135212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 静岡県榛原郡川根本町地名",
+        "name_ja": "地名",
+        "name_kana": "ヂナ"
+      },
+      "geometry": {
+        "coordinates": [
+          138.084727,
+          34.985125
+        ],
+        "type": "Point"
+      },
+      "id": "address.22482294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 石川県羽咋郡志賀町地保ヘ",
+        "name_ja": "蛇ケ谷",
+        "name_kana": "ヂャガタニ"
+      },
+      "geometry": {
+        "coordinates": [
+          136.897704,
+          34.863613
+        ],
+        "type": "Point"
+      },
+      "id": "address.23612768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 石川県羽咋郡志賀町地保ヘ",
+        "name_ja": "地免",
+        "name_kana": "ヂメン"
+      },
+      "geometry": {
+        "coordinates": [
+          134.389878,
+          34.105497
+        ],
+        "type": "Point"
+      },
+      "id": "address.36100136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 香川県高松市庵治町地頭名",
+        "name_ja": "地頭名",
+        "name_kana": "ヂトウミョウ"
+      },
+      "geometry": {
+        "coordinates": [
+          134.146319,
+          34.37695
+        ],
+        "type": "Point"
+      },
+      "id": "address.37353025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "street",
+        "place_name": "Japan, 福岡県福岡市中央区地行2丁目12番",
+        "name_ja": "地行",
+        "name_kana": "ヂギョウ"
+      },
+      "geometry": {
+        "coordinates": [
+          130.364209,
+          33.58803
+        ],
+        "type": "Point"
+      },
+      "id": "address.40137888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_ja": "地行浜",
+        "name_kana": "ヂギョウハマ",
+        "place_name": "Japan, 福岡県福岡市中央区地行浜"
+      },
+      "geometry": {
+        "coordinates": [
+          130.359788,
+          33.596862
+        ],
+        "type": "Point"
+      },
+      "id": "fbb25333c32e66dd1356e169faf1e4e6"
+    }
+  ],
+  "type": "FeatureCollection"
+}
